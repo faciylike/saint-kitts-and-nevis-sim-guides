@@ -64,3 +64,10 @@ layout: default
 3.  **充值渠道：** 流量用光别慌！市区便利店、运营商门店、甚至部分ATM都能买充值卡（Top-Up Card），线上APP充值也方便（需绑定当地卡或PayPal）。
 4.  **漫游与区域包：** 计划去隔壁安提瓜、圣卢西亚玩几天？问问运营商有没有“加勒比共同体 (CARICOM) 区域流量包”，比单开国际漫游便宜得多。漫游回中国费用高昂，建议关掉数据，用本地卡流量+微信语音。
 5.  **电压与插头：** 圣基茨用110V电压，美标两扁脚插头（Type A/B）。带个万能转换插头，手机才能“吃饱电”。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Saint Kitts And Nevis eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/saint-kitts-and-nevis-data-plans)
